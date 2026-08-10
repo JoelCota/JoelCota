@@ -35,11 +35,6 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JoelCota&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoelCota&layout=compact&hide_border=true" />
-</p>
-
-<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoelCota&hide_border=true" />
 </p>
 
