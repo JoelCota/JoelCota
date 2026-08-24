@@ -22,7 +22,7 @@
 | **Frontend**       | <img src="https://skillicons.dev/icons?i=react,vite,bootstrap,tailwind" />                             |
 | **Backend**        | <img src="https://skillicons.dev/icons?i=nodejs,express,java" />                                       |
 | **Cloud & DevOps** | <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,prometheus,grafana" />    |
-| **Testing**        | <img src="https://skillicons.dev/icons?i=selenium,jmeter,appium,cypress" />                            |
+| **Testing**        | <img src="https://skillicons.dev/icons?i=selenium,cypress,postman" />                            |
 | **Databases**      | <img src="https://skillicons.dev/icons?i=postgres,mysql" />                                            |
 | **Tools**          | <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />                                   |
 
