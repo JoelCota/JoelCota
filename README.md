@@ -1,43 +1,64 @@
-<h1 align="center">Hi 👋, I'm Joel Cota</h1>
-<h3 align="center">Computer Science Student</h3>
+<h1 align="center">Hi there, I'm Joel Cota 👋</h1>
+
+<h3 align="center">Software Engineer from ITSON, MX 🇲🇽 focused on Cloud, DevOps, full-stack development and software quality.</h3>
+
+* 🎓 I graduated in **Software Engineering from ITSON**.
+* ☁️ I'm interested in **Cloud Computing, DevOps and distributed systems**.
+* 💻 I enjoy building **full-stack applications and backend services**.
+* 🧪 I'm passionate about **software testing, automation and quality engineering**.
+* ⚙️ I'm currently deepening my knowledge in **Docker, Kubernetes, Terraform and cloud platforms**.
+* 🤖 I'm also interested in **embedded systems and robotics**.
+* 🚀 I'm always looking to build projects that combine **software, cloud infrastructure and automation**.
+* 💬 Ask me about **JavaScript, TypeScript, Python, Java, React, Docker, Kubernetes and software testing**.
+* 📫 How to reach me: **[joellpzc12@gmail.com](mailto:joellpzc12@gmail.com)**
+
+---
+
+### 🛠️ Languages and Tools
+
+| Category           | Skills                                                                                                 |
+| ------------------ | ------------------------------------------------------------------------------------------------------ |
+| **Languages**      | <img src="https://skillicons.dev/icons?i=python,js,ts,java,php,sql" />                                 |
+| **Frontend**       | <img src="https://skillicons.dev/icons?i=react,vite,bootstrap,tailwind" />                             |
+| **Backend**        | <img src="https://skillicons.dev/icons?i=nodejs,express,java" />                                       |
+| **Cloud & DevOps** | <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,prometheus,grafana" />    |
+| **Testing**        | <img src="https://skillicons.dev/icons?i=selenium" /> **Selenium · Robot Framework · JMeter · Appium** |
+| **Databases**      | <img src="https://skillicons.dev/icons?i=postgres,mysql" />                                            |
+| **Tools**          | <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />                                   |
+
+---
+
+### 🚀 What I'm Working On
+
+I'm currently focused on expanding my experience in:
+
+* ☁️ **Cloud infrastructure and operations**
+* 🐳 **Docker & containerization**
+* ☸️ **Kubernetes & orchestration**
+* 🏗️ **Terraform & Infrastructure as Code**
+* 📊 **Prometheus & Grafana observability**
+* 🧪 **Automated testing & QA engineering**
+* 🔗 **Microservices and distributed systems**
+* 💻 **Full-stack development**
+
+---
+
+### 📊 My GitHub Stats
 
 <p align="center">
-  Interested in robotics, embedded systems, software testing, and development — curious about tech in general and always exploring new areas.
+  <img valign="middle" src="https://streak-stats.demolab.com?user=JoelCota&theme=dark&hide_border=false&short_numbers=true" alt="Joel's GitHub Streak" />
+  <img valign="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoelCota&layout=compact&theme=dark&hide_border=false" alt="Joel's Top Languages" />
 </p>
 
+---
+
+### 🤝 Connect with Me
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/joel-cota/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/joel-cota">
+    <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="Joel Cota's LinkedIn"/>
+  </a>
+  <a href="mailto:joellpzc12@gmail.com">
+    <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="joellpzc12@gmail.com"/>
   </a>
 </p>
-
----
-
-### 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
-</p>
-
-### 📌 Featured Projects
-
-- **[pomodoro-widget](https://github.com/JoelCota/pomodoro-widget)** — Always-on-top Pomodoro timer for desktop, built with Electron + React
-- **[GuessTheNumber](https://github.com/JoelCota/GuessTheNumber)** — Mobile app built in Kotlin
-- **[IdentificadorNumerico](https://github.com/JoelCota/IdentificadorNumerico)** — Machine learning project for digit recognition via webcam
-- **[MC714_trabalho2](https://github.com/JoelCota/MC714_trabalho2)** — Distributed systems coursework
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoelCota&hide_border=true" />
-</p>
-
----
-
-<p align="center"><em>Thanks for stopping by!</em></p>
