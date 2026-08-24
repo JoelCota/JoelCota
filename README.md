@@ -48,6 +48,7 @@ I'm currently focused on expanding my experience in:
 <p align="center">
   <img valign="middle" src="https://img.shields.io/github/followers/JoelCota?style=for-the-badge&color=blue&logo=github" alt="Followers" />
   <img valign="middle" src="https://komarev.com/ghpvc/?username=JoelCota&style=for-the-badge&color=blue" alt="Profile views" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoelCota&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="JoelCota's GitHub Stats" />
 </p>
 
 ---
