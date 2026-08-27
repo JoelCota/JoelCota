@@ -2,7 +2,7 @@
 
 <h3 align="center">Software Engineer focused on Cloud, DevOps, full-stack development and software quality.</h3>
 
-* 🎓 I graduated in **Software Engineering from ITSON**.
+* 🎓 I graduated in **Software Engineering**.
 * ☁️ I'm interested in **Cloud Computing, DevOps and distributed systems**.
 * 💻 I enjoy building **full-stack applications and backend services**.
 * 🧪 I'm passionate about **software testing, automation and quality engineering**.
